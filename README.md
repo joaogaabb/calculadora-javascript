@@ -4,7 +4,8 @@ Calculadora de terminal feita em JavaScript (Node.js), com menu interativo, trat
 
 ## Como rodar
 
-\`\`\`bash
+\`\`\`
+bash
 npm install
 node teste.js
 \`\`\`
